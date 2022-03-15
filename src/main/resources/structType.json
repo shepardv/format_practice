@@ -1,0 +1,25 @@
+{
+  "type" : "struct",
+  "fields" : [
+    {
+      "name" : "LocationID",
+      "type" : "integer",
+      "nullable" : false,
+      "metadata" : { }
+    }, {
+      "name" : "Boroght",
+      "type" : "string",
+      "nullable" : true,
+      "metadata" : { }
+    }, {
+      "name" : "zone",
+      "type" : "string",
+      "nullable" : true,
+      "metadata" : { }
+    }, {
+      "name" : "serviceZone",
+      "type" : "string",
+      "nullable" : true,
+      "metadata" : { }
+    } ]
+}

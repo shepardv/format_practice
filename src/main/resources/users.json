@@ -1,0 +1,26 @@
+[
+  {
+    "userId": 1,
+    "city": "Ufa",
+    "firstName": "Krish",
+    "lastName": "Lee",
+    "phoneNumber": "123456",
+    "emailAddress": "krish.lee@abc.com"
+  },
+  {
+    "userId": 2,
+    "city": "Ufa",
+    "firstName": "racks",
+    "lastName": "jacson",
+    "phoneNumber": "123456",
+    "emailAddress": "racks.jacson@abc.com"
+  },
+  {
+    "userId": 3,
+    "city": "Erevan",
+    "firstName": "Lou",
+    "lastName": "Lee",
+    "phoneNumber": "123456",
+    "emailAddress": "low.lee@abc.com"
+  }
+]
